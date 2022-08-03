@@ -1,5 +1,5 @@
 <html>
-  <body style="background-color:gray">
+  <body style="background-color:gray;">
 
 # wtech_bitirme
 Merhaba, ben Aylin. SistersLab’in Toplum Gönüllüleri Vakfı (link:https://www.tog.org.tr/en/) tarafından desteklenen Women in Tech Academy proje katılımcılarından
