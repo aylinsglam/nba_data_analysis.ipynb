@@ -15,7 +15,7 @@ Ardından sırasıyla
 <img style="height:200px" src="analiz1.png"></img>
 
 *  Maçların Nerelerde Oynandığı, 
-<img style="height:200px" src="analiz2yeni.png"></img>
+<img style="height:200px" src="analiz2yeni.JPG"></img>
 
 * Arena Kapasitesinin Ev sahibi takımın galibiyetine etkisi  
 <img style="height:200px" src="analiz3.png"></img>
