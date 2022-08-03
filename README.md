@@ -9,6 +9,8 @@ bilgiye bu linkten ulaşabilirsiniz: https://sisterslab.co/women-in-tech-academy
 
 Bu repo da, akademi kapsamında yapılması gereken bitirme projesinin reposudur. 
 
+<img style="height:200px" src="nba.jpg"></img>
+
 Bu projede, verilen 5 tane csv dosyasında yer alan veri setlerinden anlamlı analizler çıkarılmıştır. Bu csv dosyaları, NBA ligi ile ilgili detaylı bilgileri içermektedir. Repoda da bu 5 dosyanın sütun isimleri değiştirilmiş, satır ve sütun sayılarına erişilmiştir.
 Ardından sırasıyla
 * Kazanan takımların kendi evinde/deplasmanda oynamalarının yaptıkları asist rebuond ve aldıkları puana etkisi
