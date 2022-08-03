@@ -23,7 +23,7 @@ Ardından sırasıyla
 *  En skorer on oyuncunun hücum rebound, savunma reboundı, top çalma ve blok arasında en çok neyi yaptığı
 Başlıklarını inceledim
 <img src="analiz1.png"></img>
-<img style="height:40px" src="analiz2.png"></img>
+<img style="height:200px" src="analiz2.png"></img>
 <img src="analiz3.png"></img>
 <img src="analiz4.png"></img>
 <img src="analiz5.png"></img>
