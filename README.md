@@ -15,13 +15,20 @@ Ardından sırasıyla
 
 * Dosyaları Okuma, sütun adlarını güncelleme, satır-sütun sayılarını bulma 
 *  Maçların Nerelerde Oynandığı, Arena Kapasitesinin Ev sahibi takımın galibiyetine etkisi  
-<img src="analiz2.png"></img>
+
 *  Takımların kuruluş yıllarının kazanma yüzdeliklerine etkisi
 *  Daha Fazla Üçlük Denemenin Galibiyete Etkisi
 *  Oyuncuların başlangıç pozisyonlarının, maça katkılarına etkisi
 *  Defensive-offensive rebound etkisi
 *  En skorer on oyuncunun hücum rebound, savunma reboundı, top çalma ve blok arasında en çok neyi yaptığı
 Başlıklarını inceledim
-
+<img src="analiz1.png"></img>
+<img src="analiz2.png"></img>
+<img src="analiz3.png"></img>
+<img src="analiz4.png"></img>
+<img src="analiz5.png"></img>
+<img src="analiz6.png"></img>
+<img src="analiz7.png"></img>
+<img src="analiz8.png"></img>
   <body>
 <html>
