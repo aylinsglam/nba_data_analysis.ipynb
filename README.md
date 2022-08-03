@@ -1,9 +1,11 @@
 <html>
+  <head>
   <style>
 body {
   background-color:gray;
 }
 </style>
+    </head>
   <body >
 
 # wtech_bitirme
