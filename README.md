@@ -1,3 +1,5 @@
+
+<div style="background-color:gray">
 # wtech_bitirme
 Merhaba, ben Aylin. SistersLab’in Toplum Gönüllüleri Vakfı (link:https://www.tog.org.tr/en/) tarafından desteklenen Women in Tech Academy proje katılımcılarından
 biriyim. Proje, 20–28 yaş aralığındaki 25 kadını 3 ay boyunca yazılım eğitimleriyle güçlendirerek sektörde iş gücüne katılımını hedefliyor. Projeyle ilgili daha fazla
@@ -18,3 +20,4 @@ Ardından sırasıyla
 *  Defensive-offensive rebound etkisi
 *  En skorer on oyuncunun hücum rebound, savunma reboundı, top çalma ve blok arasında en çok neyi yaptığı
 Başlıklarını inceledim
+</div>
